@@ -1,0 +1,6 @@
+[submodule "fullstack-backend-java"]
+	path = fullstack-backend-java
+	url = https://github.com/arnab47/fullstack-backend-java.git
+[submodule "fullstack-frontend-react"]
+	path = fullstack-frontend-react
+	url = https://github.com/arnab47/fullstack-frontend-react.git
